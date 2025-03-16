@@ -1,6 +1,6 @@
 # **Automação de Indicadores**
 
-![Automação de Processos](imagem/capa.png) <!-- Substitua por uma imagem ou banner do projeto, se preferir -->
+![Automação de Processos](imagem/planofundo_readme.png) <!-- Substitua por uma imagem ou banner do projeto, se preferir -->
 
 ## **Descrição do Projeto**
 
