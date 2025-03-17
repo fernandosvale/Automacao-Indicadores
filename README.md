@@ -1,5 +1,5 @@
 # **Automação de Indicadores**
-![Automação de Processos](imagem/at.JPG)
+![Automação de Processos](imagem/capaatualizada.PNG)
 
 
 
